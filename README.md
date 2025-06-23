@@ -4,7 +4,7 @@ APNS(Apple Push Notification Service) implemented in Rust
 [![Build Status](https://travis-ci.org/back2mach/apns.svg?branch=master)](https://travis-ci.org/back2mach/apns)
 
 
-![wormhole](https://github.com/user-attachments/assets/84bde661-1c17-4651-a271-9fed345c6378)
+![wormhole](https://github.com/user-attachments/assets/3900fc43-a2a7-4607-935a-c8b30b0b849f)
 
 ### Config
 
